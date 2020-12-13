@@ -1,1 +1,1 @@
-# CloudML_image_captioning_aplication
+# CloudML_Image Captioning Application Service
