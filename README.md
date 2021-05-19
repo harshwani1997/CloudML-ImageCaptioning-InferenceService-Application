@@ -11,3 +11,6 @@ Training instruction
 Testing application
 1. Go to http://159.122.183.36:30000/
 2. Upload image and submit, then wait for result show on screen
+
+# Use Case Implementation
+![Use Case](Diagrams/BasicUseCase.png)
