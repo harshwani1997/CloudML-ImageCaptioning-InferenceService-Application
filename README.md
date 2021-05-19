@@ -13,4 +13,4 @@ Testing application
 2. Upload image and submit, then wait for result show on screen
 
 # Use Case Implementation
-![Use Case](Diagrams/BasicUseCase.png)
+![Use Case](Diagrams/BasicUseCase.PNG)
