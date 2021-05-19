@@ -14,3 +14,6 @@ Testing application
 
 # Use Case Implementation
 ![Use Case](Diagrams/BasicUseCase.PNG)
+
+# Basic High Level Design Implementation
+![High Level](Diagrams/HighLevelDesign.PNG)
